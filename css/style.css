@@ -492,13 +492,14 @@ position: relative;
     }
     
 }
-.footer .contact .third-col a i{
+.footer .contact .third-col i{
     margin-left: 10px;
     border: 1px solid;
     padding: 7px 10px;
     border-radius: 50%;
+    cursor: pointer;
 }
-.footer .contact .third-col a i:hover{
+.footer .contact .third-col i:hover{
     color: var(--Bright-Blue);
 }
 /* end footer */
